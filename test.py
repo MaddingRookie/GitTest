@@ -1,4 +1,6 @@
 print('hello word!')
 print('test')
 def fun():
-    print('nihao')
+    a = 1
+    b = 2
+    print(a+b)
