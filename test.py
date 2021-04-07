@@ -1,6 +1,6 @@
 print('hello word!')
 print('test')
-def kkk():
+def hhhh():
 
     print('a+b')
-kkk()
+hhhh()
